@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100089550064027",
+    "100069136731529",
     "",
     "",
     "",
     ""
   ],
   "GOD": [
-    "100089550064027",
+    "100069136731529",
     ""
   ],
   "DEV": [
-    "100089550064027",
+    "100069136731529",
     ""
   ],
   "whiteListMode": {
@@ -36,11 +36,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "• ▄︻デ❲•𝐀𝐀𝐃𝐈•❳ 𝙡𝙚𝙜𝙚𝙣𝙙❹❷⓿ 🙄🤠══━一",
-  "authorName": "D3nish",
-  "authorFB": "fb.me/100086747072197",
+  "nickNameBot": "𒁍⃝𓆩̬ᴩʀɪᴍᴇ 🦋⃝ᴍɪɴɪꜱᴛᴇʀ𓆪᭄___🩷🪽",
+  "authorName": "Mʀ Roɱʌŋtɩc",
+  "authorFB": "https://www.facebook.com/N9W9Z.1NS1D3",
   "authorEmail": "",
-  "prefix": "/",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
