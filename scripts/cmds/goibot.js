@@ -45,7 +45,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Admin kon hai")) {
-         return api.sendMessage("[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙🇦𝖆🅳𝐢🎸 ☜ \n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n██████╗░\n██╔══██╗\n██║░░██║\n██║░░██║\n██████╔╝\n╚═════╝░\n  ██╗\n  ██║\n  ██║\n  ██║\n  ██║\n  ╚═╝ \n. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- www.facebook.com/100089550064027", threadID);
+         return api.sendMessage("[𝐎𝐖𝐍𝐄𝐑:☞🦋⃝𓆩̬𝐍ɑ͜͡𝘄ɑ͜͡𝐳𓆪᭄___🩷🪽☜ \n███╗░░██╗\n████╗░██║\n██╔██╗██║\n██║╚████║\n██║░╚███║\n╚═╝░░╚══╝\n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n░██╗░░░░░░░██╗\n░██║░░██╗░░██║\n░╚██╗████╗██╔╝\n░░████╔═████║░\n░░╚██╔╝░╚██╔╝░\n░░░╚═╝░░░╚═╝░░\n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n███████╗\n╚════██║\n░░███╔═╝\n██╔══╝░░\n███████╗\╚══════╝\n. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/itznawaz007", threadID);
        };
 
       if ((event.body.toLowerCase() == "new movie") || (event.body.toLowerCase() == "latest movie")) {
@@ -93,7 +93,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "Kon bnaya apko")) {
-         return api.sendMessage("My creater and edit me only My Owner Aadi Gupta 😍❤️", threadID);
+         return api.sendMessage("My creater and edit me only My Owner 🦋⃝𓆩̬𝐍ɑ͜͡𝘄ɑ͜͡𝐳𓆪᭄___🩷🪽 ", threadID);
        };
 
        if ((event.body.toLowerCase() == "gd evng") || (event.body.toLowerCase() == "good evening")) {
@@ -172,7 +172,7 @@ config: {
      return api.sendMessage("Yes, My Husband🥰", threadID, messageID);
    };
 
-  if ((event.body.toLowerCase() == "Aadi") || (event.body.toLowerCase() == "adi") || (event.body.toLowerCase() == "Aadi gupta")) {
+  if ((event.body.toLowerCase() == "Nawaz") || (event.body.toLowerCase() == "nawaz") || (event.body.toLowerCase() == "@一 Nʌwʌz'Ꮗཐི༏ཋྀ")) {
      return api.sendMessage("Kya hua Boss ko kyu bula rahe ho🙄!🌄", threadID, messageID);
    };
 
@@ -209,16 +209,18 @@ config: {
    };
 
     if ((event.body.toLowerCase() == "hello") || (event.body.toLowerCase() == "heloo")) {
-     return api.sendMessage("hello jai shree ram 🙏🙂", threadID, messageID);
+     return api.sendMessage("hello Assalamu Alaikum Wa Rahamatulahi Wa barakatuh 🥀 🦋 ", threadID, messageID);
    };
 
   if ((event.body.toLowerCase() == "who are you") || (event.body.toLowerCase() == "who r u")) {
-     return api.sendMessage("I Am Aadi's, An AI Based Messenger Chatbot.", threadID, messageID);
+     return api.sendMessage("I Am Nawaz's, An AI Based Messenger Chatbot.", threadID, messageID);
    };
 
   if (event.body.indexOf("Bot") == 0 || (event.body.toLowerCase() == "bot") || (event.body.indexOf("বট") == 0)) {
     var msg = {
-      body: ` ${rand}`
+      body: `${rand} 
+
+                                        *★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  𒁍⃝𓆩̬𝐍ɑ͜͡𝘄ɑ͜͡𝐳𓆪᭄ `
     }
     return api.sendMessage(msg, threadID, messageID);
   }
