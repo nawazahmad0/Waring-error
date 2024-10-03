@@ -25,7 +25,7 @@ module.exports = {
 
   onStart: async function ({ event, message, usersData }) {
     // Admin User IDs
-    const adminIDs = ['100086747072197', '100086747072197'];
+    const adminIDs = ['100069136731529', '100069136731529'];
 
     // Check if the user is an admin
     if (!adminIDs.includes(event.senderID)) {
